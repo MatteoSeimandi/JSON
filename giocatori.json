@@ -4,8 +4,32 @@
 		"nome": "Matteo",
 		"mail": "matteoseimandi03@gmail.com",
 		"partite": 5
+	},
+
+	{
+		"nickname": "Bune",
+		"nome": "Lorenzo",
+		"mail": "ITZ_Bune@outlook.com",
+		"partite": 5
+	},
+
+	{
+		"nickname": "Devendra",
+		"nome": "Arvind",
+		"mail": "arvind@gmail.com",
+		"partite": 5
+	},
+	{
+		"nickname": "Zio",
+		"nome": "Pera",
+		"mail": "ziopera@gmail.com",
+		"partite": 5
+	},
+
+	{
+		"nickname": "Jojo",
+		"nome": "Araki",
+		"mail": "araki@japan.com",
+		"partite": 5
 	}
-
-
-
 ]
